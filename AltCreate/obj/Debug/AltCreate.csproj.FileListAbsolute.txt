@@ -1,0 +1,11 @@
+C:\Users\milan\RiderProjects\AltCreate\AltCreate\bin\Debug\AltCreate.exe.config
+C:\Users\milan\RiderProjects\AltCreate\AltCreate\bin\Debug\AltCreate.exe
+C:\Users\milan\RiderProjects\AltCreate\AltCreate\bin\Debug\AltCreate.pdb
+C:\Users\milan\RiderProjects\AltCreate\AltCreate\obj\Debug\AltCreate.csprojResolveAssemblyReference.cache
+C:\Users\milan\RiderProjects\AltCreate\AltCreate\obj\Debug\AltCreate.Properties.Resources.resources
+C:\Users\milan\RiderProjects\AltCreate\AltCreate\obj\Debug\AltCreate.csproj.GenerateResource.Cache
+C:\Users\milan\RiderProjects\AltCreate\AltCreate\obj\Debug\AltCreate.exe
+C:\Users\milan\RiderProjects\AltCreate\AltCreate\obj\Debug\AltCreate.pdb
+C:\Users\milan\RiderProjects\AltCreate\AltCreate\obj\Debug\AltCreate.Form1.resources
+C:\Users\milan\RiderProjects\AltCreate\AltCreate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\milan\RiderProjects\AltCreate\AltCreate\bin\Debug\Newtonsoft.Json.xml
